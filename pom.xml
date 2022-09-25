@@ -11,6 +11,7 @@
 	<groupId>com.ghavan</groupId>
 	<artifactId>DockerLearning</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war<packaging>
 	<name>DockerLearning</name>
 	<description>Demo project for Docker with Spring Boot</description>
 	<properties>
